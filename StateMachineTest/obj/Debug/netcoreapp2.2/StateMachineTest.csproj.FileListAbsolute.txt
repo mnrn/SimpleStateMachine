@@ -1,0 +1,17 @@
+/Users/n/codes/dotnet/StateMachine/StateMachineTest/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/n/codes/dotnet/StateMachine/StateMachineTest/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/n/codes/dotnet/StateMachine/StateMachineTest/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/n/codes/dotnet/StateMachine/StateMachineTest/bin/Debug/netcoreapp2.2/StateMachineTest.deps.json
+/Users/n/codes/dotnet/StateMachine/StateMachineTest/bin/Debug/netcoreapp2.2/StateMachineTest.runtimeconfig.json
+/Users/n/codes/dotnet/StateMachine/StateMachineTest/bin/Debug/netcoreapp2.2/StateMachineTest.runtimeconfig.dev.json
+/Users/n/codes/dotnet/StateMachine/StateMachineTest/bin/Debug/netcoreapp2.2/StateMachineTest.dll
+/Users/n/codes/dotnet/StateMachine/StateMachineTest/bin/Debug/netcoreapp2.2/StateMachineTest.pdb
+/Users/n/codes/dotnet/StateMachine/StateMachineTest/bin/Debug/netcoreapp2.2/StateMachine.dll
+/Users/n/codes/dotnet/StateMachine/StateMachineTest/bin/Debug/netcoreapp2.2/StateMachine.pdb
+/Users/n/codes/dotnet/StateMachine/StateMachineTest/obj/Debug/netcoreapp2.2/StateMachineTest.csprojAssemblyReference.cache
+/Users/n/codes/dotnet/StateMachine/StateMachineTest/obj/Debug/netcoreapp2.2/StateMachineTest.csproj.CoreCompileInputs.cache
+/Users/n/codes/dotnet/StateMachine/StateMachineTest/obj/Debug/netcoreapp2.2/StateMachineTest.AssemblyInfoInputs.cache
+/Users/n/codes/dotnet/StateMachine/StateMachineTest/obj/Debug/netcoreapp2.2/StateMachineTest.AssemblyInfo.cs
+/Users/n/codes/dotnet/StateMachine/StateMachineTest/obj/Debug/netcoreapp2.2/StateMachineTest.csproj.CopyComplete
+/Users/n/codes/dotnet/StateMachine/StateMachineTest/obj/Debug/netcoreapp2.2/StateMachineTest.dll
+/Users/n/codes/dotnet/StateMachine/StateMachineTest/obj/Debug/netcoreapp2.2/StateMachineTest.pdb

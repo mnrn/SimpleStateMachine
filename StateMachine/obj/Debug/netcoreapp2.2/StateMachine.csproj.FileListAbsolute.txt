@@ -1,0 +1,11 @@
+/Users/n/codes/dotnet/StateMachine/StateMachine/bin/Debug/netcoreapp2.2/StateMachine.deps.json
+/Users/n/codes/dotnet/StateMachine/StateMachine/bin/Debug/netcoreapp2.2/StateMachine.runtimeconfig.json
+/Users/n/codes/dotnet/StateMachine/StateMachine/bin/Debug/netcoreapp2.2/StateMachine.runtimeconfig.dev.json
+/Users/n/codes/dotnet/StateMachine/StateMachine/bin/Debug/netcoreapp2.2/StateMachine.dll
+/Users/n/codes/dotnet/StateMachine/StateMachine/bin/Debug/netcoreapp2.2/StateMachine.pdb
+/Users/n/codes/dotnet/StateMachine/StateMachine/obj/Debug/netcoreapp2.2/StateMachine.csprojAssemblyReference.cache
+/Users/n/codes/dotnet/StateMachine/StateMachine/obj/Debug/netcoreapp2.2/StateMachine.csproj.CoreCompileInputs.cache
+/Users/n/codes/dotnet/StateMachine/StateMachine/obj/Debug/netcoreapp2.2/StateMachine.AssemblyInfoInputs.cache
+/Users/n/codes/dotnet/StateMachine/StateMachine/obj/Debug/netcoreapp2.2/StateMachine.AssemblyInfo.cs
+/Users/n/codes/dotnet/StateMachine/StateMachine/obj/Debug/netcoreapp2.2/StateMachine.dll
+/Users/n/codes/dotnet/StateMachine/StateMachine/obj/Debug/netcoreapp2.2/StateMachine.pdb

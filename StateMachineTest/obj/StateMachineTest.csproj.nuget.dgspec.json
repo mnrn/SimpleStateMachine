@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/n/codes/dotnet/StateMachine/StateMachineTest/StateMachineTest.csproj": {}
+  },
+  "projects": {
+    "/Users/n/codes/dotnet/StateMachine/StateMachine/StateMachine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/n/codes/dotnet/StateMachine/StateMachine/StateMachine.csproj",
+        "projectName": "StateMachine",
+        "projectPath": "/Users/n/codes/dotnet/StateMachine/StateMachine/StateMachine.csproj",
+        "packagesPath": "/Users/n/.nuget/packages/",
+        "outputPath": "/Users/n/codes/dotnet/StateMachine/StateMachine/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/n/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/n/codes/dotnet/StateMachine/StateMachineTest/StateMachineTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/n/codes/dotnet/StateMachine/StateMachineTest/StateMachineTest.csproj",
+        "projectName": "StateMachineTest",
+        "projectPath": "/Users/n/codes/dotnet/StateMachine/StateMachineTest/StateMachineTest.csproj",
+        "packagesPath": "/Users/n/.nuget/packages/",
+        "outputPath": "/Users/n/codes/dotnet/StateMachine/StateMachineTest/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/n/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/n/codes/dotnet/StateMachine/StateMachine/StateMachine.csproj": {
+                "projectPath": "/Users/n/codes/dotnet/StateMachine/StateMachine/StateMachine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
