@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachine/SimpleStateMachine.csproj": {}
+  },
+  "projects": {
+    "/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachine/SimpleStateMachine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachine/SimpleStateMachine.csproj",
+        "projectName": "SimpleStateMachine",
+        "projectPath": "/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachine/SimpleStateMachine.csproj",
+        "packagesPath": "/Users/n/.nuget/packages/",
+        "outputPath": "/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachine/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/n/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "LanguageExt.Core": {
+              "target": "Package",
+              "version": "[3.3.19, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

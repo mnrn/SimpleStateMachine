@@ -1,0 +1,17 @@
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachineTest/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachineTest/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachineTest/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachineTest/bin/Debug/netcoreapp2.2/SimpleStateMachineTest.deps.json
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachineTest/bin/Debug/netcoreapp2.2/SimpleStateMachineTest.runtimeconfig.json
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachineTest/bin/Debug/netcoreapp2.2/SimpleStateMachineTest.runtimeconfig.dev.json
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachineTest/bin/Debug/netcoreapp2.2/SimpleStateMachineTest.dll
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachineTest/bin/Debug/netcoreapp2.2/SimpleStateMachineTest.pdb
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachineTest/bin/Debug/netcoreapp2.2/SimpleStateMachine.dll
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachineTest/bin/Debug/netcoreapp2.2/SimpleStateMachine.pdb
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachineTest/obj/Debug/netcoreapp2.2/SimpleStateMachineTest.csprojAssemblyReference.cache
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachineTest/obj/Debug/netcoreapp2.2/SimpleStateMachineTest.csproj.CoreCompileInputs.cache
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachineTest/obj/Debug/netcoreapp2.2/SimpleStateMachineTest.AssemblyInfoInputs.cache
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachineTest/obj/Debug/netcoreapp2.2/SimpleStateMachineTest.AssemblyInfo.cs
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachineTest/obj/Debug/netcoreapp2.2/SimpleStateMachineTest.csproj.CopyComplete
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachineTest/obj/Debug/netcoreapp2.2/SimpleStateMachineTest.dll
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachineTest/obj/Debug/netcoreapp2.2/SimpleStateMachineTest.pdb

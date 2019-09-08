@@ -1,0 +1,11 @@
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachine/bin/Debug/netcoreapp2.2/SimpleStateMachine.deps.json
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachine/bin/Debug/netcoreapp2.2/SimpleStateMachine.runtimeconfig.json
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachine/bin/Debug/netcoreapp2.2/SimpleStateMachine.runtimeconfig.dev.json
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachine/bin/Debug/netcoreapp2.2/SimpleStateMachine.dll
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachine/bin/Debug/netcoreapp2.2/SimpleStateMachine.pdb
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachine/obj/Debug/netcoreapp2.2/SimpleStateMachine.csprojAssemblyReference.cache
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachine/obj/Debug/netcoreapp2.2/SimpleStateMachine.csproj.CoreCompileInputs.cache
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachine/obj/Debug/netcoreapp2.2/SimpleStateMachine.AssemblyInfoInputs.cache
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachine/obj/Debug/netcoreapp2.2/SimpleStateMachine.AssemblyInfo.cs
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachine/obj/Debug/netcoreapp2.2/SimpleStateMachine.dll
+/Users/n/codes/dotnet/SimpleStateMachine/SimpleStateMachine/obj/Debug/netcoreapp2.2/SimpleStateMachine.pdb
