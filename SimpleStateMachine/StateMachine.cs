@@ -1,7 +1,7 @@
 using LanguageExt;
 using static LanguageExt.Prelude;
 
-namespace StateMachine {
+namespace SimpleStateMachine {
     public class StateMachine<T> {
         private Option<T> owner_;
         private Option<State<T>> currentState_;
