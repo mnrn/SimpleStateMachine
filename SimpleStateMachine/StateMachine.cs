@@ -29,11 +29,7 @@ public class StateMachine<T> {
       ));
   }
 
-  public void ChangeGlobalState (State<T> nextGlobalState) {
-    ifSome (from state in globalState_ from owner in owner_ select (state: state, owner: owner),
-      t => t.state.Exit (t.owner));
+  public void SetGlobalState(State<T> nextGlobalState) {
     globalState_ = nextGlobalState;
-    ifSome (from state in globalState_ from owner in owner_ select (state: state, owner: owner),
-      t => t.state.Enter (t.owner));
   }
 }
