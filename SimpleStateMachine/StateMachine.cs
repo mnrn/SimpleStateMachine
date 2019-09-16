@@ -1,24 +1,39 @@
 using LanguageExt;
 using static LanguageExt.Prelude;
 
-namespace SimpleStateMachine {
-    public class StateMachine<T> {
-        private Option<T> owner_;
-        private Option<State<T>> currentState_;
-        private Option<State<T>> previousState_;
+public class StateMachine<T> {
+  private Option<T> owner_;
+  private Option<State<T>> currentState_;
+  private Option<State<T>> previousState_;
+  private Option<State<T>> globalState_;
 
-        StateMachine (T owner) {
-            owner_ = Some (owner);
-        }
+  public StateMachine (T owner, State<T> initState) {
+    owner_ = owner;
+    currentState_ = initState;
+  }
 
-        public void ChangeState (State<T> nextState) {
-            previousState_ = currentState_;
-            currentState_.IfSome (state => state.Exit (owner_));
-            currentState_ = Some (nextState);
-            currentState_.IfSome (state => state.Enter (owner_));
-        }
-        public void Update () {
-            currentState_.IfSome (state => state.Execute (owner_));
-        }
-    }
+  public void ChangeState (State<T> nextState) {
+    previousState_ = currentState_;
+    ifSome (from state in currentState_ from owner in owner_ select (state: state, owner: owner),
+      t => t.state.Exit (t.owner));
+    currentState_ = nextState;
+    ifSome (from state in currentState_ from owner in owner_ select (state: state, owner: owner),
+      t => t.state.Enter (t.owner));
+  }
+
+  public void Update () {
+    List (currentState_, globalState_)
+      .Map (s => ifSome (
+        from state in s from owner in owner_ select (state: state, owner: owner),
+        t => t.state.Execute (t.owner)
+      ));
+  }
+
+  public void ChangeGlobalState (State<T> nextGlobalState) {
+    ifSome (from state in globalState_ from owner in owner_ select (state: state, owner: owner),
+      t => t.state.Exit (t.owner));
+    globalState_ = nextGlobalState;
+    ifSome (from state in globalState_ from owner in owner_ select (state: state, owner: owner),
+      t => t.state.Enter (t.owner));
+  }
 }
